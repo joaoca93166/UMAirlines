@@ -4,13 +4,13 @@ Flight Management System - Terminal Application (2021/2022)
 
 # Authors
 
-[Rui Armada](https://github.com/RuiArmada)
+* [Rui Armada](https://github.com/RuiArmada)
 
-[João Carvalho](https://github.com/joaoca93166)
+* [João Carvalho](https://github.com/joaoca93166)
 
-[Leonardo Freitas](https://github.com/Leonardo1924)
+* [Leonardo Freitas](https://github.com/Leonardo1924)
 
-[Guilherme Gonçalves](https://github.com/Trenion)
+* [Guilherme Gonçalves](https://github.com/Trenion)
 
 # Grade
 
