@@ -10,7 +10,7 @@ Flight Management System - Terminal Application (2021/2022)
 
 [Leonardo Freitas](https://github.com/Leonardo1924)
 
-[Guilherme Gonçalves](https://github.com/Trenion)# SD-TP
+[Guilherme Gonçalves](https://github.com/Trenion)
 
 # Grade
 
