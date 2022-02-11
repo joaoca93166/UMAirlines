@@ -2,7 +2,7 @@
 
 Flight Management System - Terminal Application (2021/2022)
 
-# Authors
+## 🛠 Authors
 
 * [Rui Armada](https://github.com/RuiArmada)
 
@@ -12,6 +12,6 @@ Flight Management System - Terminal Application (2021/2022)
 
 * [Guilherme Gonçalves](https://github.com/Trenion)
 
-# Grade
+## Grade
 
 ⭐ (12.0/20)
